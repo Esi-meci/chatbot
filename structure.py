@@ -1,3 +1,4 @@
+import time
 list_words = ['hello', ' day', 'love', 'good', 'hi']
 
 response = {
